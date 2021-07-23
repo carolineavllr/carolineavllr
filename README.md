@@ -13,7 +13,7 @@ const carol = {
 }
 ```
 
-[<img src="https://image.flaticon.com/icons/png/512/2111/2111499.png" width="40"> style="margin-right: 10px;"](https://www.linkedin.com/in/carolineavllr/)
+[<img src="https://image.flaticon.com/icons/png/512/2111/2111499.png" width="40" style="margin-right: 10px;">](https://www.linkedin.com/in/carolineavllr/)
 
 [<img src="https://image.flaticon.com/icons/png/512/2111/2111463.png" width="40">](https://www.instagram.com/carolineavllr/)
 
