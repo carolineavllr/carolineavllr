@@ -2,7 +2,7 @@
 <img align='right' src="https://media4.giphy.com/media/8BlEa9XDwxOwdB6mKW/giphy.gif" width="230">
 <p><em>Frontend Developer at <a href="https://www.mesalva.com/">Me Salva!</a></p>
 
-[![Linkedin: carolineavllr]](https://www.linkedin.com/in/carolineavllr/)
+[!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">](https://www.linkedin.com/in/carolineavllr/)
 [![GitHub Caroline]](https://github.com/carolineavllr)
 
 
