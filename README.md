@@ -3,7 +3,7 @@
 <p><em>Frontend Developer at <a href="https://www.mesalva.com/">Me Salva!</a></p>
 
 [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="50">](https://www.linkedin.com/in/carolineavllr/)
-[img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="50">](https://github.com/carolineavllr)
+[<img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="50">](https://github.com/carolineavllr)
 
 
 ### A little more about me...  
