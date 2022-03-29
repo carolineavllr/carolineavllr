@@ -1,6 +1,6 @@
 <h2> Hi, I'm Caroline Avellar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media4.giphy.com/media/8BlEa9XDwxOwdB6mKW/giphy.gif" width="230">
-<p><em>Frontend Developer at <a href="https://www.mesalva.com/">Me Salva!</a></p>
+<p><em>Frontend Developer at <a href="https://www.vnda.com.br/">Vnda</a></p>
 <p><em>Student at <a href="http://www.ifsul.edu.br/">IFSUL</a></p>
 
 ### A little more about me...  
