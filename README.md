@@ -1,7 +1,7 @@
 <img align='right' src="octocat.png" width="200">
 
 ## 💜 Olá, meu nome é <strong>Caroline!</strong>
-- Sou desenvolvedora frontend
+- Front-end Developer
 
 <br/>
 <br/>
