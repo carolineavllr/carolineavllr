@@ -43,7 +43,7 @@ Linguagens & Tecnologias: `JavaScript`, `React`, `TypeScript`, `Styled-component
 [<img align="left" height="60px" width="60px" alt="Nubank" src="https://www.deltaglobal.com.br/assets/nova_home/img/deltaGlobal-deltagrupo-logo.svg"/>](https://nubank.com.br/)
 **Front-end Developer JR** \
 [**Delta**](https://nubank.com.br/) • Full-time \
-Linguagens & Tecnologias: `JavaScript`, `React`, `PHP`, `HTML`, `CSS`\
+Linguagens & Tecnologias: `JavaScript`, `React`, `PHP`, `HTML`, `CSS`
 
 <br/>
 <br/>
