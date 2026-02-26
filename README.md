@@ -2,31 +2,48 @@
 
 ## 💜 Olá, meu nome é <strong>Caroline!</strong>
 
+Desenvolvedora Full Stack com foco em frontend e atuação crescente em backend.
+
 <br/>
 <br/>
   
-
 ## 🚀 Minhas Skills
 
-<code><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/></code>
-<code><img height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/></code>
-<code><img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></code>
-<code><img height="30" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactNative"/></code>
-<code><img height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node"/></code>
-<code><img height="30" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express"/></code>
-<code><img height="30" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="SASS"/></code>
-<code><img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></code>
-<code><img height="30" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></code>
-<code><img height="30" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/></code>
-<br/>
-<code><img height="30" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest"/></code>
-<code><img height="30" src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon" alt="Sinon"/></code>
-<br/>
-<code><img height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></code>
-<code><img height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgress"/></code>
-<br/>
-<code><img height="30" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></code>
+### 👩🏻‍💻 Frontend
 
+<code><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></code>
+<code><img height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></code>
+<code><img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></code>
+<code><img height="30" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></code>
+<code><img height="30" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/></code>
+<code><img height="30" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/></code>
+<code><img height="30" src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/></code>
+
+<br/>
+
+### 🧠 Backend
+
+<code><img height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></code>
+<code><img height="30" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/></code>
+<code><img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></code>
+<code><img height="30" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></code>
+<code><img height="30" src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/></code>
+
+<br/>
+
+### 🗄️ Banco de Dados
+
+<code><img height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></code>
+<code><img height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></code>
+
+<br/>
+
+### 🧪 Testes & DevOps
+
+<code><img height="30" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=jest&logoColor=white"/></code>
+<code><img height="30" src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge"/></code>
+<code><img height="30" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></code>
+<code><img height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></code>
 
 
 <br/>
@@ -34,10 +51,10 @@
 
 
 ## 👩🏻‍💻  Experiência de trabalho
-**Developer PL** \
+**Full Stack Developer** \
 [**DB**](https://db.tec.br/) • Full-time \
-Linguagens & Tecnologias: `TypeScript`, `NodeJS`, `React Native`, `React`, `Next`\
-<br/>
+Tecnologias: `TypeScript`, `Node.js`, `React`, `React Native`, `Angular`, `Docker`, `PostgreSQL`  
+Atuação com arquitetura de microsserviços, testes unitários, integração contínua e APIs REST.
 
 **Front-end Developer PL** \
 [**Vnda**](https://www.vnda.com.br/) • Full-time \
